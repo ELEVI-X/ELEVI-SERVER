@@ -1,6 +1,4 @@
 {
-    "Server": {
-        "status": "alive"
-        "Version": "0.0.1"
-    }
+  "SERVER_STATUS": "ALIVE",
+  "VERSION": "8.6.3 Beta"
 }
