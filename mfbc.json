@@ -1,4 +1,5 @@
 {
-  "SERVER_STATUS": "ALIVE",
-  "VERSION": "8.6.3 Beta"
+  "status": "alive",
+  "version": "4.0.1",
+  "user": "admin",
 }
